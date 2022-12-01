@@ -16,3 +16,14 @@ Execution:
 3) open another terminal window and in the same folder path type "python app.py" and run the command
 4) Open the default localhost 5000 port
 5) Give the Symptoms as inputs using the drop-down menu options and click submit to recieve the prdecited disease
+
+Installation of certain libraries might be required 
+Run the following commands to install the libraries in the local machine
+
+
+"pip install numpy"
+"pip install pandas"
+"pip install scikit-learn"
+"pip install matplotlib"
+"pip install seaborn"
+"pip install xgboost"
